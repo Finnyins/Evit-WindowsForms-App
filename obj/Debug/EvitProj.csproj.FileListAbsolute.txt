@@ -1,0 +1,10 @@
+C:\Users\matao\source\repos\EvitProj\bin\Debug\EvitProj.exe.config
+C:\Users\matao\source\repos\EvitProj\bin\Debug\EvitProj.exe
+C:\Users\matao\source\repos\EvitProj\bin\Debug\EvitProj.pdb
+C:\Users\matao\source\repos\EvitProj\obj\Debug\EvitProj.csprojAssemblyReference.cache
+C:\Users\matao\source\repos\EvitProj\obj\Debug\EvitProj.GenericMemoryGame.resources
+C:\Users\matao\source\repos\EvitProj\obj\Debug\EvitProj.Properties.Resources.resources
+C:\Users\matao\source\repos\EvitProj\obj\Debug\EvitProj.csproj.GenerateResource.cache
+C:\Users\matao\source\repos\EvitProj\obj\Debug\EvitProj.csproj.CoreCompileInputs.cache
+C:\Users\matao\source\repos\EvitProj\obj\Debug\EvitProj.exe
+C:\Users\matao\source\repos\EvitProj\obj\Debug\EvitProj.pdb
